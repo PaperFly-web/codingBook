@@ -18,3 +18,5 @@
 | advanced-java                     | 比JavaGuide之流强多了，分布式知识可以看一遍这个，比较系统化  | github上的开源[项目](https://www.nowcoder.com/jump/super-jump/word?word=项目) |
 | 05-趣谈网络                       | 好课程，网络把这个拿下，网络方面别人问不住你                 | 后悔时间晚了点才知道这门课，那时候秋招都结束了               |
 
+### 在gitee中也上传了，如果国内下载比较慢，可以去gitee中去下载  
+https://gitee.com/paperfly/codingBook
