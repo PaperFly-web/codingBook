@@ -24,3 +24,4 @@ https://gitee.com/paperfly/codingBook
 ### 记录
 最近偶然发现一个网站，可以在线观看很多计算机的书，具体可以看下图。网站地址我就直接贴出来了  `https://study.10086.fund:23350/ `
 ![image](https://user-images.githubusercontent.com/62205559/140094135-59bcf86d-aa74-4e64-8148-7cadd66982c1.png)
+# 如果觉得不错，麻烦给个star吧，我万分感谢你
